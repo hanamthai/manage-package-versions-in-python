@@ -22,6 +22,10 @@ or 'python -m venv helloworld'
 ```bash
 venv\Scripts\activate
 ```
+#### You can turn off by command:
+```bash
+venv\Scripts\deactivate
+```
 
 ### Step 4: Now, you can install any version you need.
 
