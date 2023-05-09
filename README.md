@@ -20,11 +20,11 @@ or 'python -m venv helloworld'
 ### Step 3: Run enviroment:
 
 ```bash
-venv\Scripts\activate
+NAME_VIRTUAL_ENVIRONMENT\Scripts\activate
 ```
 #### You can turn off by command:
 ```bash
-venv\Scripts\deactivate
+NAME_VIRTUAL_ENVIRONMENT\Scripts\deactivate
 ```
 
 ### Step 4: Now, you can install any version you need.
@@ -53,7 +53,7 @@ or 'python -m venv helloworld'
 ### Step 4: Run enviroment:
 
 ```bash
-venv\Scripts\activate
+NAME_VIRTUAL_ENVIRONMENT\Scripts\activate
 ```
 
 ### Step 5: Install everything package version in requirements file by command:
